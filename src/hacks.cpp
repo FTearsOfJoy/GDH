@@ -28,7 +28,8 @@ void Hacks::Init() {
                 {"Treasure Room", "Unlocks the Treasure Room", "treasure_room"}, // +    
                 {"Unlock Shops", "Unlocks all shops", "unlock_shops"}, // +  
                 {"Unlock Vaults", "Unlocks all Vaults and doors", "unlock_vaults"},
-                {"Main Levels", "Unlocks all main levels", "main_levels"} // +     
+                {"Main Levels", "Unlocks all main levels", "main_levels"} // +    
+                {"Moderator Bypass", "moderator rate levels", "moderator_bypass"} // +  
             }
         },
         {"Player", 220, 10, 220, 640, 
