@@ -1,4 +1,4 @@
-name: Build Geode Mod
+name: Failed. Please try again later.
 
 on:
   workflow_dispatch:
